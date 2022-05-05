@@ -27,13 +27,17 @@ MPI_REDUCE :
 ![mpi_reduce_2](https://user-images.githubusercontent.com/89316938/166974712-e4a44af8-4038-4704-af3a-f22fa5761f60.png)
 
 MPI_ALLReduce :
+
 ![mpi_allreduce_1](https://user-images.githubusercontent.com/89316938/166974723-e6b4671e-6050-4d0a-81d3-29586ca1ad15.png)
 
 Broadcastvsscatter :
+
 ![broadcastvsscatter](https://user-images.githubusercontent.com/89316938/166974765-30ff3a2f-0141-490a-97c2-78377043f5a1.png)
 
 Gather :
+
 ![gather](https://user-images.githubusercontent.com/89316938/166974770-fe2bab2d-e548-4188-9426-1f09408fe347.png)
 
 AllGather :
+
 ![allgather](https://user-images.githubusercontent.com/89316938/166974776-67200c09-dc7b-4d64-8038-78167aa3961d.png)
